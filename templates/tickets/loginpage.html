@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+    <form action="/validate_user_pass" method="POST"> {% csrf_token %}
+    Username:<input name='username' type='text'><br>
+    <div style="color:red">
+    {{ msg }}
+    </div>
+    <br>
+    Password:<input name='password' type='text'><br>
+    <input type="submit">
+    </form>
+
+{% endblock content %}    

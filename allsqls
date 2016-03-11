@@ -1,0 +1,37 @@
+DROP DATABASE tutorial;
+
+CREATE DATABASE tutorial;
+
+select * from tutorial.tickets;
+select * from tutorial.division;
+
+USE tutorial;
+
+	select   *
+							from tickets tb1
+							inner join
+							division tb2
+							on tb1.division_id = tb2.division_id
+							inner join
+							duration tb3
+							on tb1.duration_id = tb3.duration_id
+							inner join
+							error_count tb4
+							on tb1.error_count_id = tb4.error_count_id
+							inner join
+							outage_caused tb5
+							on tb1.outage_caused_id = tb5.outage_caused_id
+							inner join
+							system_caused tb6
+							on tb1.system_caused_id = tb6.system_caused_id
+							inner join
+							tickets_zips tb7
+							on tb1.ticket_num = tb7.tickets_id
+							inner join
+							zip tb8
+							on tb7.zip_id = tb8.zip_id
+							left outer join
+							addt_notes tb9
+							on tb1.ticket_num = tb9.notes_id
+
+							order by row_create_ts,ticket_num

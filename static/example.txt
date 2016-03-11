@@ -1,0 +1,9004 @@
+{
+	"data": [
+		[
+			"02/14/2016",
+			"West",
+			"18901",
+			"712",
+			"4151",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11401",
+			"1256",
+			"2611",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19001",
+			"1018",
+			"4874",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16501",
+			"573",
+			"9597",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10701",
+			"812",
+			"561",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16601",
+			"1881",
+			"5893",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11001",
+			"1132",
+			"9404",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11201",
+			"417",
+			"8989",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22302",
+			"149",
+			"6795",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10901",
+			"1618",
+			"9629",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14404",
+			"1551",
+			"2569",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11402",
+			"1927",
+			"2436",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11201",
+			"743",
+			"1430",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"18101",
+			"1607",
+			"9782",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18001",
+			"1045",
+			"2895",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11803",
+			"653",
+			"9606",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18001",
+			"642",
+			"9913",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16703",
+			"54",
+			"3620",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12704",
+			"625",
+			"7572",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10501",
+			"1077",
+			"711",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19701",
+			"196",
+			"5854",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21305",
+			"1422",
+			"5198",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15301",
+			"763",
+			"5916",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12704",
+			"813",
+			"2987",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19001",
+			"1199",
+			"4499",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12601",
+			"608",
+			"2757",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15301",
+			"670",
+			"9536",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15901",
+			"1590",
+			"9549",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23501",
+			"170",
+			"4389",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14405",
+			"582",
+			"5268",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14803",
+			"780",
+			"2998",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"23201",
+			"382",
+			"3397",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16702",
+			"629",
+			"2164",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19701",
+			"692",
+			"2912",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10402",
+			"153",
+			"5698",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22001",
+			"41",
+			"1143",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14402",
+			"1315",
+			"2774",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14002",
+			"625",
+			"4866",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10501",
+			"522",
+			"5915",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13705",
+			"702",
+			"8807",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19701",
+			"1718",
+			"3216",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18702",
+			"1589",
+			"7163",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23104",
+			"171",
+			"1838",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23801",
+			"1129",
+			"5670",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14705",
+			"1253",
+			"2066",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12703",
+			"1926",
+			"3862",
+			"Comcast System Unplanned Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16101",
+			"1690",
+			"1519",
+			"Comcast System Unplanned Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19701",
+			"944",
+			"1827",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15501",
+			"1735",
+			"9818",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10601",
+			"858",
+			"6030",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"23201",
+			"1990",
+			"4353",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16703",
+			"451",
+			"622",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"14901",
+			"609",
+			"6093",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16702",
+			"1550",
+			"5388",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13502",
+			"734",
+			"753",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16501",
+			"441",
+			"8640",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"23201",
+			"637",
+			"9334",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10402",
+			"1062",
+			"2621",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15102",
+			"505",
+			"4204",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11703",
+			"1970",
+			"3368",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11203",
+			"366",
+			"2603",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15901",
+			"100",
+			"4542",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16001",
+			"693",
+			"827",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11301",
+			"1689",
+			"2009",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"23201",
+			"858",
+			"5481",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15301",
+			"1769",
+			"9377",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16601",
+			"1148",
+			"5954",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23001",
+			"1752",
+			"4235",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11201",
+			"1661",
+			"6950",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23501",
+			"1716",
+			"5459",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14706",
+			"1147",
+			"5064",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18001",
+			"824",
+			"6897",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22002",
+			"1012",
+			"7410",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19001",
+			"230",
+			"5582",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"14901",
+			"196",
+			"7659",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23601",
+			"7",
+			"9929",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16001",
+			"1639",
+			"9722",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11001",
+			"1925",
+			"7184",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15102",
+			"1522",
+			"7390",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20701",
+			"875",
+			"9752",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15601",
+			"428",
+			"9334",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16401",
+			"688",
+			"7329",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18701",
+			"1004",
+			"9841",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10702",
+			"5",
+			"9587",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12601",
+			"1481",
+			"2143",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22001",
+			"508",
+			"1278",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14804",
+			"1486",
+			"982",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19901",
+			"1598",
+			"5036",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15401",
+			"1830",
+			"5802",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20701",
+			"726",
+			"4117",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"18101",
+			"1139",
+			"4298",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16702",
+			"906",
+			"8277",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16101",
+			"1229",
+			"5635",
+			"Comcast System Unplanned Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11701",
+			"1070",
+			"6575",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13601",
+			"694",
+			"3044",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15501",
+			"201",
+			"5019",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20101",
+			"76",
+			"265",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14801",
+			"1606",
+			"8757",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23101",
+			"1901",
+			"5977",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10402",
+			"79",
+			"5240",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21306",
+			"515",
+			"4404",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20201",
+			"1493",
+			"9030",
+			"Scheduled Maintenance",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14702",
+			"601",
+			"218",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18701",
+			"1758",
+			"1419",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15301",
+			"1291",
+			"7028",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14003",
+			"4",
+			"9772",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15401",
+			"249",
+			"3670",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10601",
+			"942",
+			"6687",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18702",
+			"819",
+			"2421",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11401",
+			"1949",
+			"7092",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15401",
+			"1600",
+			"1619",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20201",
+			"620",
+			"9932",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11001",
+			"1279",
+			"9213",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11801",
+			"1091",
+			"7966",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21304",
+			"1591",
+			"7758",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10501",
+			"893",
+			"5448",
+			"Scheduled Maintenance",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11401",
+			"1376",
+			"8646",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16702",
+			"1653",
+			"5513",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12703",
+			"1228",
+			"8981",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23801",
+			"632",
+			"1207",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18001",
+			"572",
+			"7854",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16001",
+			"1386",
+			"1340",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13601",
+			"459",
+			"5761",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18501",
+			"381",
+			"2286",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15601",
+			"1336",
+			"6896",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14401",
+			"38",
+			"3045",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18801",
+			"1676",
+			"5916",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15101",
+			"449",
+			"4319",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10702",
+			"1988",
+			"9739",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21304",
+			"296",
+			"5046",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14002",
+			"540",
+			"8921",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16902",
+			"679",
+			"6176",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22002",
+			"1311",
+			"9188",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11701",
+			"530",
+			"1939",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22302",
+			"1345",
+			"761",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16001",
+			"766",
+			"1303",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11203",
+			"1061",
+			"4107",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11203",
+			"1789",
+			"5542",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19601",
+			"72",
+			"5574",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18001",
+			"396",
+			"3347",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"23201",
+			"1908",
+			"3949",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13601",
+			"1600",
+			"9684",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22001",
+			"1694",
+			"32",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10601",
+			"766",
+			"3792",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11802",
+			"221",
+			"834",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14702",
+			"132",
+			"643",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18901",
+			"1079",
+			"9547",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16201",
+			"1305",
+			"7412",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"17001",
+			"1386",
+			"2956",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23101",
+			"283",
+			"5905",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20701",
+			"1126",
+			"1950",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19001",
+			"1582",
+			"5324",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16501",
+			"71",
+			"5212",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14401",
+			"100",
+			"9632",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16701",
+			"1461",
+			"4316",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16701",
+			"524",
+			"5364",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10202",
+			"1033",
+			"3355",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16401",
+			"1826",
+			"9870",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20701",
+			"141",
+			"2044",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11101",
+			"1093",
+			"5368",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11301",
+			"1648",
+			"6942",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13705",
+			"613",
+			"134",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22301",
+			"1405",
+			"6181",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13501",
+			"617",
+			"6766",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13301",
+			"1398",
+			"3662",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16401",
+			"1665",
+			"6511",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16401",
+			"508",
+			"5328",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21304",
+			"837",
+			"3620",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13901",
+			"28",
+			"3461",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23601",
+			"1222",
+			"902",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11202",
+			"128",
+			"2185",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11203",
+			"1661",
+			"5926",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12702",
+			"985",
+			"5068",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21305",
+			"393",
+			"1409",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10404",
+			"1706",
+			"2032",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18501",
+			"373",
+			"5632",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14801",
+			"136",
+			"216",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15901",
+			"1355",
+			"2225",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15601",
+			"1438",
+			"1036",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16501",
+			"1837",
+			"9361",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12702",
+			"1522",
+			"1959",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10201",
+			"909",
+			"7658",
+			"Scheduled Maintenance",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16001",
+			"347",
+			"6390",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16601",
+			"867",
+			"3325",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16401",
+			"141",
+			"3005",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22301",
+			"788",
+			"8114",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18901",
+			"1104",
+			"7756",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11801",
+			"1600",
+			"3371",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16701",
+			"443",
+			"7987",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12704",
+			"1430",
+			"51",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11803",
+			"868",
+			"469",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21301",
+			"233",
+			"6434",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19501",
+			"287",
+			"0",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11001",
+			"239",
+			"6961",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16401",
+			"1527",
+			"5313",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16501",
+			"988",
+			"9005",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22302",
+			"1673",
+			"6573",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23301",
+			"530",
+			"4503",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11202",
+			"184",
+			"7534",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16601",
+			"617",
+			"3454",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16703",
+			"1544",
+			"3572",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23103",
+			"1533",
+			"9840",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12704",
+			"1711",
+			"8973",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21305",
+			"105",
+			"4238",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11402",
+			"350",
+			"7206",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11001",
+			"907",
+			"3155",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18801",
+			"1586",
+			"1949",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14403",
+			"1536",
+			"3127",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13601",
+			"936",
+			"4533",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14805",
+			"1253",
+			"8144",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19001",
+			"1010",
+			"1613",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20201",
+			"1365",
+			"5663",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10901",
+			"1602",
+			"1408",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23001",
+			"1041",
+			"8078",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13705",
+			"1606",
+			"5091",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11203",
+			"469",
+			"34",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19001",
+			"912",
+			"3912",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16001",
+			"330",
+			"4715",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15401",
+			"1668",
+			"739",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13201",
+			"519",
+			"4498",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10501",
+			"1988",
+			"4728",
+			"Comcast System Unplanned Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23801",
+			"428",
+			"9013",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11301",
+			"87",
+			"9278",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11402",
+			"1223",
+			"346",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19501",
+			"639",
+			"9886",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10901",
+			"473",
+			"5174",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15102",
+			"1619",
+			"454",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16902",
+			"41",
+			"4212",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10702",
+			"719",
+			"3633",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16201",
+			"580",
+			"3075",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13703",
+			"217",
+			"4212",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10701",
+			"848",
+			"6278",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14002",
+			"1563",
+			"9974",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18701",
+			"894",
+			"8607",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20701",
+			"1553",
+			"4109",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16401",
+			"922",
+			"9584",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16001",
+			"294",
+			"8668",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16001",
+			"446",
+			"6844",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13601",
+			"1758",
+			"2905",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18901",
+			"444",
+			"322",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18703",
+			"133",
+			"1123",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14806",
+			"1236",
+			"9299",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16601",
+			"744",
+			"5892",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23104",
+			"1418",
+			"9484",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16001",
+			"638",
+			"7742",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14703",
+			"1460",
+			"3792",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11001",
+			"1206",
+			"6608",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15601",
+			"1624",
+			"2790",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15601",
+			"1026",
+			"2798",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13704",
+			"1151",
+			"3698",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12703",
+			"614",
+			"2085",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22002",
+			"1822",
+			"8201",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18801",
+			"1393",
+			"5923",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10702",
+			"1884",
+			"2447",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16401",
+			"1143",
+			"715",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16401",
+			"977",
+			"8739",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13301",
+			"768",
+			"686",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14704",
+			"1452",
+			"9278",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18801",
+			"1548",
+			"5239",
+			"Comcast System Unplanned Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16704",
+			"805",
+			"2601",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20101",
+			"1450",
+			"592",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13702",
+			"621",
+			"3251",
+			"Comcast System Unplanned Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11102",
+			"1509",
+			"6139",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11001",
+			"1302",
+			"2823",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16901",
+			"91",
+			"1146",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23101",
+			"261",
+			"4487",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"23201",
+			"932",
+			"7009",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15102",
+			"1380",
+			"4934",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10202",
+			"1360",
+			"3329",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16703",
+			"1184",
+			"4522",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10203",
+			"35",
+			"3165",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22002",
+			"941",
+			"3131",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18703",
+			"1922",
+			"9009",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23001",
+			"97",
+			"1464",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15501",
+			"926",
+			"7885",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19901",
+			"1050",
+			"3597",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13501",
+			"727",
+			"2415",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12702",
+			"1005",
+			"466",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23104",
+			"1590",
+			"7251",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11202",
+			"1001",
+			"7563",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19001",
+			"338",
+			"3852",
+			"Scheduled Maintenance",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10702",
+			"318",
+			"5694",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16703",
+			"938",
+			"4567",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23103",
+			"1187",
+			"6637",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"14901",
+			"1209",
+			"2282",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11202",
+			"1751",
+			"6651",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16401",
+			"673",
+			"8783",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22301",
+			"785",
+			"8807",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11102",
+			"391",
+			"2360",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13402",
+			"1864",
+			"9292",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11701",
+			"325",
+			"8224",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10701",
+			"1204",
+			"5331",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15401",
+			"243",
+			"8814",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"23201",
+			"840",
+			"891",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20701",
+			"1805",
+			"1274",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15101",
+			"219",
+			"6457",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10601",
+			"1136",
+			"6898",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20701",
+			"1709",
+			"7088",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23701",
+			"1278",
+			"9381",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14804",
+			"1568",
+			"7616",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14806",
+			"1107",
+			"1844",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15401",
+			"828",
+			"9950",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21301",
+			"1042",
+			"5000",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15102",
+			"587",
+			"7336",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14803",
+			"753",
+			"2905",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11202",
+			"976",
+			"7192",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10501",
+			"411",
+			"7674",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23103",
+			"217",
+			"3690",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18801",
+			"1436",
+			"8722",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16101",
+			"1845",
+			"5019",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21301",
+			"381",
+			"5560",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16702",
+			"1391",
+			"7582",
+			"Comcast System Unplanned Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13501",
+			"1121",
+			"226",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14403",
+			"1130",
+			"227",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10201",
+			"31",
+			"7213",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10204",
+			"1428",
+			"8598",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18901",
+			"819",
+			"5324",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22301",
+			"775",
+			"1373",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18701",
+			"1270",
+			"9356",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21306",
+			"1619",
+			"2546",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23701",
+			"1710",
+			"6006",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11703",
+			"1170",
+			"3903",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15601",
+			"586",
+			"806",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10601",
+			"689",
+			"9076",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11704",
+			"580",
+			"3356",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23001",
+			"1337",
+			"154",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10402",
+			"1990",
+			"486",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14803",
+			"237",
+			"3051",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10202",
+			"1157",
+			"9261",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11001",
+			"1279",
+			"2110",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15801",
+			"281",
+			"8767",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15601",
+			"1643",
+			"4495",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14003",
+			"1372",
+			"5338",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16702",
+			"1766",
+			"2697",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14804",
+			"133",
+			"6040",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13201",
+			"1219",
+			"9084",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11101",
+			"1407",
+			"9736",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15101",
+			"833",
+			"217",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21301",
+			"359",
+			"574",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16902",
+			"1644",
+			"4184",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14003",
+			"696",
+			"1126",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16702",
+			"1264",
+			"342",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13501",
+			"1928",
+			"9293",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22301",
+			"893",
+			"4456",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13201",
+			"1763",
+			"6177",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"18101",
+			"1206",
+			"746",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12702",
+			"1034",
+			"93",
+			"Scheduled Maintenance",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13601",
+			"984",
+			"5948",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19601",
+			"956",
+			"2336",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18702",
+			"901",
+			"5152",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21304",
+			"655",
+			"2787",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18501",
+			"1943",
+			"8502",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10501",
+			"730",
+			"1628",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10702",
+			"317",
+			"6120",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10402",
+			"1571",
+			"7640",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12704",
+			"1355",
+			"3077",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20101",
+			"1185",
+			"3542",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"23201",
+			"1148",
+			"9467",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16201",
+			"889",
+			"5790",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11702",
+			"836",
+			"3357",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10901",
+			"22",
+			"5875",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15401",
+			"322",
+			"7633",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10701",
+			"498",
+			"4591",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21305",
+			"1582",
+			"9667",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13702",
+			"38",
+			"1618",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18703",
+			"727",
+			"4732",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19001",
+			"1813",
+			"3133",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22302",
+			"8",
+			"7885",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18702",
+			"1575",
+			"7647",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16902",
+			"407",
+			"2361",
+			"Scheduled Maintenance",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18001",
+			"463",
+			"8810",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10501",
+			"1201",
+			"6536",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13201",
+			"186",
+			"7081",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15501",
+			"1939",
+			"2515",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10901",
+			"1351",
+			"4904",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15102",
+			"597",
+			"1798",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14806",
+			"969",
+			"1700",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18901",
+			"1085",
+			"2155",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20201",
+			"699",
+			"1619",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23002",
+			"929",
+			"2558",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15901",
+			"716",
+			"3817",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13501",
+			"178",
+			"3159",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18001",
+			"1346",
+			"9010",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10601",
+			"28",
+			"6023",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16101",
+			"1096",
+			"8392",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23001",
+			"956",
+			"1428",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22001",
+			"609",
+			"9563",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20101",
+			"1567",
+			"8710",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11301",
+			"664",
+			"6040",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12701",
+			"1783",
+			"9992",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16703",
+			"554",
+			"1078",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18701",
+			"1265",
+			"7879",
+			"Scheduled Maintenance",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10201",
+			"452",
+			"5876",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13701",
+			"1335",
+			"2892",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21303",
+			"463",
+			"6702",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11203",
+			"1425",
+			"4639",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11701",
+			"1292",
+			"3867",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13902",
+			"928",
+			"9516",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16101",
+			"659",
+			"8703",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13705",
+			"1027",
+			"2112",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11802",
+			"931",
+			"7520",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14702",
+			"688",
+			"2938",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15001",
+			"1685",
+			"5686",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11101",
+			"779",
+			"53",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"17001",
+			"1224",
+			"1362",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10202",
+			"714",
+			"522",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15001",
+			"1086",
+			"9529",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11402",
+			"772",
+			"1348",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11802",
+			"467",
+			"9672",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11801",
+			"1309",
+			"840",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23801",
+			"1742",
+			"8339",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19501",
+			"459",
+			"5743",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19901",
+			"1071",
+			"3435",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16201",
+			"159",
+			"7543",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11803",
+			"833",
+			"5152",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21306",
+			"759",
+			"2006",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19701",
+			"406",
+			"7398",
+			"Comcast System Unplanned Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13301",
+			"1158",
+			"8444",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"14901",
+			"1103",
+			"9010",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13702",
+			"83",
+			"1542",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12701",
+			"646",
+			"439",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19601",
+			"1247",
+			"6591",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14401",
+			"67",
+			"5350",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14402",
+			"1982",
+			"4247",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11802",
+			"1976",
+			"8290",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11701",
+			"305",
+			"9554",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13501",
+			"291",
+			"6419",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19001",
+			"27",
+			"1016",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14003",
+			"393",
+			"1848",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20101",
+			"736",
+			"3594",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10501",
+			"737",
+			"9609",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13701",
+			"1302",
+			"6996",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12703",
+			"710",
+			"6985",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11203",
+			"1884",
+			"656",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"14901",
+			"1487",
+			"2249",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18701",
+			"1658",
+			"5201",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10404",
+			"1156",
+			"2890",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11101",
+			"1889",
+			"8469",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18501",
+			"1933",
+			"5467",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18703",
+			"1552",
+			"1593",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19901",
+			"200",
+			"5487",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20101",
+			"21",
+			"7197",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13201",
+			"1703",
+			"7229",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18901",
+			"898",
+			"195",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"23201",
+			"884",
+			"476",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14401",
+			"1810",
+			"265",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18703",
+			"239",
+			"5641",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"17001",
+			"948",
+			"141",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16601",
+			"1050",
+			"6936",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14406",
+			"1633",
+			"2071",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16501",
+			"1006",
+			"7937",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10601",
+			"674",
+			"5893",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15102",
+			"1415",
+			"7321",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20101",
+			"573",
+			"1292",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20201",
+			"1828",
+			"8448",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10901",
+			"592",
+			"7091",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14702",
+			"1383",
+			"2916",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14404",
+			"1552",
+			"5504",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16101",
+			"1787",
+			"76",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23104",
+			"306",
+			"5686",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10901",
+			"936",
+			"5606",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22302",
+			"818",
+			"682",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11102",
+			"1523",
+			"8497",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20201",
+			"1380",
+			"5125",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16702",
+			"1784",
+			"6936",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11702",
+			"884",
+			"8023",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14803",
+			"1561",
+			"6467",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"17001",
+			"383",
+			"9419",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11801",
+			"242",
+			"4056",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18501",
+			"991",
+			"302",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16101",
+			"592",
+			"7161",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18701",
+			"116",
+			"8896",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15601",
+			"37",
+			"9197",
+			"Scheduled Maintenance",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13703",
+			"1054",
+			"667",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10404",
+			"304",
+			"493",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16902",
+			"193",
+			"4420",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23001",
+			"1418",
+			"4792",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13902",
+			"1912",
+			"8449",
+			"Comcast System Unplanned Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14403",
+			"1498",
+			"4809",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12701",
+			"1141",
+			"2665",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23102",
+			"1527",
+			"257",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11202",
+			"443",
+			"9147",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14001",
+			"1810",
+			"8238",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10204",
+			"1251",
+			"1895",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19001",
+			"55",
+			"8844",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16601",
+			"853",
+			"9261",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14701",
+			"354",
+			"9289",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16902",
+			"275",
+			"409",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13301",
+			"1668",
+			"3717",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23001",
+			"1071",
+			"1121",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13401",
+			"1053",
+			"5068",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18901",
+			"986",
+			"8506",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13601",
+			"610",
+			"1668",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16702",
+			"1794",
+			"8268",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18801",
+			"324",
+			"7663",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22302",
+			"387",
+			"9445",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13702",
+			"1237",
+			"544",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11201",
+			"1230",
+			"8252",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21303",
+			"65",
+			"4893",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13601",
+			"1135",
+			"5425",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"23201",
+			"1047",
+			"2549",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11703",
+			"1055",
+			"7020",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11201",
+			"1720",
+			"685",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15101",
+			"383",
+			"1114",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15001",
+			"1967",
+			"149",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10401",
+			"524",
+			"7259",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10402",
+			"1306",
+			"2854",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13401",
+			"1911",
+			"9673",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10404",
+			"1358",
+			"4257",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15801",
+			"1966",
+			"2216",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16201",
+			"1021",
+			"2004",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16601",
+			"1933",
+			"4604",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11102",
+			"276",
+			"5829",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14406",
+			"223",
+			"6610",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"14901",
+			"23",
+			"4668",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23101",
+			"1486",
+			"5056",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15901",
+			"1085",
+			"1812",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15901",
+			"764",
+			"7262",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20101",
+			"1572",
+			"6596",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15801",
+			"730",
+			"2448",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11202",
+			"1490",
+			"4708",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13901",
+			"371",
+			"8052",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"18101",
+			"1597",
+			"8395",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"18101",
+			"851",
+			"2490",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10202",
+			"1468",
+			"1741",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16601",
+			"396",
+			"6694",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16601",
+			"1197",
+			"5408",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18801",
+			"1587",
+			"8752",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18801",
+			"1444",
+			"4769",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18901",
+			"1577",
+			"4663",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11802",
+			"357",
+			"6838",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16702",
+			"607",
+			"2029",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20701",
+			"331",
+			"5685",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10202",
+			"1409",
+			"6396",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19501",
+			"465",
+			"5720",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16601",
+			"1188",
+			"3722",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16703",
+			"804",
+			"4124",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11201",
+			"1921",
+			"9584",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18702",
+			"864",
+			"1349",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12702",
+			"739",
+			"1394",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15001",
+			"317",
+			"4717",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14402",
+			"1596",
+			"5031",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10204",
+			"1865",
+			"9195",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18001",
+			"774",
+			"528",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10702",
+			"1999",
+			"109",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"17001",
+			"1895",
+			"2140",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15001",
+			"1156",
+			"262",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10701",
+			"935",
+			"8317",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15401",
+			"1600",
+			"3254",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11803",
+			"599",
+			"4629",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23801",
+			"617",
+			"2131",
+			"Scheduled Maintenance",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18701",
+			"1602",
+			"3070",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14706",
+			"1118",
+			"8346",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13703",
+			"821",
+			"502",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11803",
+			"1938",
+			"7707",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19501",
+			"1492",
+			"6490",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11001",
+			"690",
+			"3921",
+			"Comcast System Unplanned Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15801",
+			"118",
+			"757",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14704",
+			"369",
+			"4896",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21301",
+			"446",
+			"5698",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14405",
+			"1643",
+			"4376",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16601",
+			"668",
+			"2590",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15601",
+			"220",
+			"1038",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20201",
+			"1375",
+			"7445",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14803",
+			"1434",
+			"7227",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11301",
+			"944",
+			"5191",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22002",
+			"1518",
+			"41",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22002",
+			"974",
+			"8440",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14402",
+			"1386",
+			"2976",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14805",
+			"1701",
+			"9382",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16902",
+			"388",
+			"7626",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23103",
+			"482",
+			"3146",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22002",
+			"852",
+			"2439",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13502",
+			"456",
+			"6541",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11803",
+			"406",
+			"1078",
+			"Scheduled Maintenance",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13501",
+			"1285",
+			"3792",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13402",
+			"492",
+			"2798",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19601",
+			"885",
+			"7324",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11202",
+			"202",
+			"4252",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23301",
+			"1662",
+			"6614",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11402",
+			"909",
+			"8502",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23102",
+			"796",
+			"6731",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19501",
+			"122",
+			"6427",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23701",
+			"427",
+			"3628",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15301",
+			"885",
+			"6419",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13201",
+			"487",
+			"9005",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21305",
+			"1715",
+			"4849",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15001",
+			"551",
+			"383",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23104",
+			"1841",
+			"6385",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18701",
+			"373",
+			"3791",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10701",
+			"157",
+			"5510",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22301",
+			"1190",
+			"7280",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19501",
+			"16",
+			"8447",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"23201",
+			"794",
+			"3783",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19001",
+			"1603",
+			"4829",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14403",
+			"1772",
+			"5097",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19701",
+			"1166",
+			"6715",
+			"Comcast System Unplanned Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16902",
+			"1901",
+			"3873",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"14901",
+			"656",
+			"6498",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16704",
+			"975",
+			"4348",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13301",
+			"277",
+			"6773",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20201",
+			"1377",
+			"2551",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13301",
+			"1898",
+			"2739",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16702",
+			"559",
+			"3044",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15501",
+			"982",
+			"9064",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19901",
+			"631",
+			"7920",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13401",
+			"1509",
+			"7689",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11001",
+			"1061",
+			"8288",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15801",
+			"1965",
+			"4612",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11202",
+			"1841",
+			"3304",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22001",
+			"620",
+			"2492",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10801",
+			"1361",
+			"3939",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16701",
+			"672",
+			"1762",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15801",
+			"967",
+			"938",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14402",
+			"1018",
+			"7022",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"17001",
+			"1060",
+			"9340",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14001",
+			"138",
+			"3432",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16001",
+			"1478",
+			"6704",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18901",
+			"293",
+			"1906",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10901",
+			"1474",
+			"2760",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16702",
+			"641",
+			"3600",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12702",
+			"145",
+			"4270",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14403",
+			"1388",
+			"6712",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10501",
+			"1864",
+			"7847",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10501",
+			"260",
+			"9396",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22301",
+			"1763",
+			"3314",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14003",
+			"845",
+			"5812",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16201",
+			"258",
+			"1935",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16101",
+			"1198",
+			"1293",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22301",
+			"146",
+			"3830",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21306",
+			"785",
+			"2499",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10901",
+			"901",
+			"1519",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11401",
+			"1970",
+			"8430",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12704",
+			"113",
+			"6676",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11102",
+			"1881",
+			"4441",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19701",
+			"1002",
+			"2697",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13501",
+			"1194",
+			"9057",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10202",
+			"1543",
+			"9709",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20201",
+			"193",
+			"9505",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19901",
+			"1990",
+			"2693",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18901",
+			"872",
+			"7542",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14401",
+			"1850",
+			"8931",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11201",
+			"1817",
+			"372",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19701",
+			"980",
+			"2901",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"23201",
+			"1540",
+			"9194",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16501",
+			"1429",
+			"5088",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11801",
+			"1823",
+			"9189",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22302",
+			"613",
+			"4161",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19701",
+			"688",
+			"2497",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14001",
+			"1785",
+			"8136",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23001",
+			"1872",
+			"9748",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18703",
+			"1756",
+			"1106",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13502",
+			"1227",
+			"5020",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11201",
+			"145",
+			"4888",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20201",
+			"320",
+			"4397",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13301",
+			"1898",
+			"4592",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11402",
+			"667",
+			"4482",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13601",
+			"1368",
+			"8980",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23301",
+			"1417",
+			"6023",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20201",
+			"299",
+			"9240",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10501",
+			"1948",
+			"32",
+			"Scheduled Maintenance",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23501",
+			"1953",
+			"7093",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13401",
+			"489",
+			"1991",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"23201",
+			"1126",
+			"7132",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20201",
+			"1585",
+			"854",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21306",
+			"1814",
+			"1062",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12704",
+			"1653",
+			"6979",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11202",
+			"1957",
+			"8641",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13704",
+			"1963",
+			"9662",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20701",
+			"1355",
+			"2159",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10801",
+			"1806",
+			"5054",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21303",
+			"1057",
+			"7216",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20701",
+			"237",
+			"7617",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10404",
+			"152",
+			"1424",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15401",
+			"1131",
+			"8245",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19701",
+			"842",
+			"6784",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23701",
+			"296",
+			"4489",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10204",
+			"1230",
+			"8455",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14701",
+			"444",
+			"9171",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10201",
+			"891",
+			"8154",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15102",
+			"765",
+			"3723",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15001",
+			"1625",
+			"504",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13402",
+			"1095",
+			"9073",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16902",
+			"1689",
+			"4490",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10601",
+			"914",
+			"6286",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11402",
+			"1466",
+			"4161",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21306",
+			"58",
+			"9755",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16902",
+			"162",
+			"5551",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10601",
+			"1699",
+			"9821",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16703",
+			"354",
+			"3208",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14705",
+			"1146",
+			"8608",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"18101",
+			"1734",
+			"5939",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18901",
+			"970",
+			"760",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13902",
+			"1279",
+			"8547",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16501",
+			"1068",
+			"9944",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14806",
+			"1371",
+			"4104",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16902",
+			"71",
+			"6577",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13301",
+			"717",
+			"9259",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10701",
+			"210",
+			"3390",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16401",
+			"1677",
+			"6274",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13701",
+			"1761",
+			"3345",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16703",
+			"878",
+			"8070",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15601",
+			"693",
+			"1026",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18501",
+			"1657",
+			"2846",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13601",
+			"479",
+			"171",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23001",
+			"362",
+			"9520",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14806",
+			"313",
+			"9339",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15102",
+			"1273",
+			"4109",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19501",
+			"1489",
+			"6941",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19601",
+			"681",
+			"5215",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14401",
+			"467",
+			"9910",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19501",
+			"328",
+			"7367",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19601",
+			"1465",
+			"5103",
+			"Scheduled Maintenance",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22302",
+			"280",
+			"7462",
+			"Scheduled Maintenance",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15401",
+			"1153",
+			"3956",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18801",
+			"1613",
+			"8749",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16902",
+			"1461",
+			"2932",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16901",
+			"735",
+			"511",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15601",
+			"479",
+			"623",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14406",
+			"1530",
+			"102",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19001",
+			"65",
+			"6905",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19001",
+			"1881",
+			"7460",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15301",
+			"1951",
+			"6987",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14401",
+			"652",
+			"4414",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15501",
+			"1844",
+			"9383",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11202",
+			"1545",
+			"649",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18702",
+			"92",
+			"9333",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15301",
+			"1891",
+			"2208",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15102",
+			"1909",
+			"9900",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13703",
+			"1486",
+			"4093",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23002",
+			"1588",
+			"297",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12602",
+			"1023",
+			"6291",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11102",
+			"1576",
+			"2755",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13501",
+			"1970",
+			"8137",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11101",
+			"1368",
+			"4872",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21303",
+			"1408",
+			"3100",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22301",
+			"740",
+			"7604",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10801",
+			"1179",
+			"9131",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21304",
+			"510",
+			"186",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15601",
+			"1717",
+			"5696",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10203",
+			"1575",
+			"2028",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15301",
+			"385",
+			"414",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19701",
+			"1952",
+			"9283",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15301",
+			"421",
+			"6203",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16702",
+			"1703",
+			"5902",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13401",
+			"1441",
+			"5391",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16101",
+			"394",
+			"7890",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11801",
+			"1662",
+			"4172",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12701",
+			"836",
+			"6582",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16201",
+			"1769",
+			"8865",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22001",
+			"648",
+			"5348",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11701",
+			"1938",
+			"1965",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15101",
+			"1294",
+			"1607",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16902",
+			"1496",
+			"9135",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14804",
+			"77",
+			"6528",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18901",
+			"1763",
+			"8813",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21304",
+			"1563",
+			"1718",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16902",
+			"1917",
+			"649",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14705",
+			"1437",
+			"619",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15401",
+			"1159",
+			"1695",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10901",
+			"1312",
+			"1527",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13703",
+			"1801",
+			"5194",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12701",
+			"724",
+			"5201",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15001",
+			"462",
+			"3624",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10404",
+			"1921",
+			"8168",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10204",
+			"444",
+			"8787",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18702",
+			"179",
+			"9921",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19501",
+			"457",
+			"8274",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11202",
+			"707",
+			"9645",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11802",
+			"1613",
+			"1495",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16703",
+			"1744",
+			"3531",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14806",
+			"368",
+			"4223",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22301",
+			"1557",
+			"4484",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"17001",
+			"764",
+			"8431",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10201",
+			"732",
+			"833",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14805",
+			"667",
+			"2296",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23701",
+			"1664",
+			"2550",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15001",
+			"1051",
+			"2179",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10501",
+			"1428",
+			"2335",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21303",
+			"10",
+			"5690",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23301",
+			"1477",
+			"3653",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14002",
+			"1727",
+			"9739",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14403",
+			"1742",
+			"9140",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20101",
+			"1948",
+			"4697",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22001",
+			"815",
+			"5705",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10401",
+			"1595",
+			"976",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11102",
+			"822",
+			"8713",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21304",
+			"1272",
+			"5859",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15301",
+			"423",
+			"7812",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12702",
+			"83",
+			"300",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12704",
+			"1839",
+			"3735",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"17001",
+			"54",
+			"9422",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11401",
+			"926",
+			"5707",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14704",
+			"1450",
+			"9028",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23101",
+			"1809",
+			"6279",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10901",
+			"1565",
+			"8871",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20101",
+			"350",
+			"7440",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15901",
+			"1471",
+			"2527",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16701",
+			"1483",
+			"2980",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18801",
+			"292",
+			"2185",
+			"Scheduled Maintenance",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19901",
+			"945",
+			"6120",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19701",
+			"691",
+			"3834",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13401",
+			"902",
+			"3763",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"17001",
+			"286",
+			"6287",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13704",
+			"122",
+			"3879",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"14901",
+			"93",
+			"3949",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10702",
+			"202",
+			"7002",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11101",
+			"1997",
+			"3879",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23801",
+			"756",
+			"7024",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16902",
+			"1642",
+			"8501",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20701",
+			"741",
+			"7756",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21305",
+			"1622",
+			"5555",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14001",
+			"1055",
+			"6554",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12602",
+			"1768",
+			"836",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15001",
+			"465",
+			"2931",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19501",
+			"804",
+			"9690",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18501",
+			"1532",
+			"887",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11102",
+			"395",
+			"2971",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16101",
+			"1777",
+			"7815",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15801",
+			"251",
+			"8161",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10404",
+			"412",
+			"8774",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15601",
+			"1534",
+			"8081",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15901",
+			"1929",
+			"2564",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13402",
+			"545",
+			"7470",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"14901",
+			"1031",
+			"9871",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12703",
+			"1922",
+			"1424",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14002",
+			"1144",
+			"4675",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19901",
+			"1004",
+			"2237",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11301",
+			"1468",
+			"8462",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10601",
+			"1485",
+			"780",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23101",
+			"313",
+			"4445",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20701",
+			"1056",
+			"1425",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15102",
+			"1715",
+			"2209",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16703",
+			"1682",
+			"2507",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18001",
+			"209",
+			"4827",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22302",
+			"25",
+			"6962",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16701",
+			"1279",
+			"2690",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10702",
+			"1024",
+			"5422",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21303",
+			"1619",
+			"4860",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14805",
+			"714",
+			"9662",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14805",
+			"57",
+			"7744",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15102",
+			"1181",
+			"1597",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18801",
+			"794",
+			"7178",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15801",
+			"1502",
+			"8531",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14001",
+			"1742",
+			"7390",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18001",
+			"204",
+			"1135",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15401",
+			"971",
+			"4733",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10501",
+			"996",
+			"6670",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10701",
+			"1900",
+			"5268",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13301",
+			"1396",
+			"6763",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15901",
+			"552",
+			"57",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13401",
+			"515",
+			"27",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20701",
+			"96",
+			"6097",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10702",
+			"1342",
+			"3909",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14802",
+			"1787",
+			"1924",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"20701",
+			"875",
+			"4271",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15001",
+			"1243",
+			"6771",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11401",
+			"499",
+			"2606",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15301",
+			"503",
+			"9299",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11301",
+			"1051",
+			"9967",
+			"Scheduled Maintenance",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11703",
+			"1453",
+			"4104",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12702",
+			"588",
+			"9227",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19001",
+			"1549",
+			"909",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16201",
+			"1351",
+			"7106",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16101",
+			"308",
+			"6216",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16704",
+			"810",
+			"8663",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14706",
+			"219",
+			"646",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21306",
+			"751",
+			"6865",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18901",
+			"501",
+			"6885",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22002",
+			"1618",
+			"1036",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16401",
+			"895",
+			"4343",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18001",
+			"926",
+			"1204",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21301",
+			"1269",
+			"2954",
+			"Scheduled Maintenance",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16703",
+			"413",
+			"1555",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22301",
+			"636",
+			"2219",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15101",
+			"441",
+			"9578",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18001",
+			"1971",
+			"4165",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16901",
+			"151",
+			"7485",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12704",
+			"1284",
+			"3495",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18702",
+			"1321",
+			"6697",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23002",
+			"499",
+			"2405",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10203",
+			"1349",
+			"2547",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22001",
+			"1011",
+			"5294",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16101",
+			"991",
+			"5770",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11203",
+			"11",
+			"3489",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18702",
+			"440",
+			"6361",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15301",
+			"981",
+			"7050",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10201",
+			"1252",
+			"8227",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10204",
+			"713",
+			"9120",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22002",
+			"845",
+			"4716",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13901",
+			"988",
+			"4121",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11301",
+			"575",
+			"3281",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21304",
+			"1060",
+			"9672",
+			"Non-Comcast System Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18501",
+			"1451",
+			"5656",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21302",
+			"1589",
+			"267",
+			"Comcast System Unplanned Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10501",
+			"556",
+			"9108",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16902",
+			"866",
+			"9830",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16101",
+			"472",
+			"6397",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19501",
+			"1290",
+			"8045",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10601",
+			"1870",
+			"1712",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18703",
+			"1358",
+			"8990",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15601",
+			"875",
+			"7184",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"22302",
+			"1890",
+			"8982",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18801",
+			"1482",
+			"7783",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13601",
+			"170",
+			"6617",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23101",
+			"696",
+			"85",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"10201",
+			"1010",
+			"1647",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23701",
+			"1261",
+			"4037",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10501",
+			"700",
+			"9474",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14402",
+			"1687",
+			"3692",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23701",
+			"217",
+			"5460",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16704",
+			"439",
+			"7660",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12603",
+			"1114",
+			"2809",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14706",
+			"725",
+			"8480",
+			"Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16101",
+			"5",
+			"1172",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18701",
+			"592",
+			"525",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19901",
+			"550",
+			"1191",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14403",
+			"401",
+			"2384",
+			"Scheduled Maintenance",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19001",
+			"1112",
+			"5577",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14803",
+			"26",
+			"3838",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11803",
+			"833",
+			"6726",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22001",
+			"101",
+			"1853",
+			"Comcast System Unplanned Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12601",
+			"1384",
+			"7963",
+			"Non-Comcast System Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18703",
+			"542",
+			"9811",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18701",
+			"1140",
+			"2858",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"18801",
+			"722",
+			"293",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14401",
+			"516",
+			"9323",
+			"Scheduled Maintenance",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13301",
+			"1632",
+			"2828",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16703",
+			"709",
+			"887",
+			"Comcast System Unplanned Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"19601",
+			"954",
+			"3403",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14802",
+			"1573",
+			"2164",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13702",
+			"1150",
+			"4381",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19601",
+			"662",
+			"3672",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18702",
+			"761",
+			"9425",
+			"Comcast System Unplanned Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23701",
+			"212",
+			"9134",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14801",
+			"1409",
+			"3775",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14403",
+			"563",
+			"6801",
+			"Comcast System Unplanned Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16703",
+			"351",
+			"1800",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11102",
+			"1958",
+			"2416",
+			"Comcast System Unplanned Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11202",
+			"1569",
+			"313",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14706",
+			"177",
+			"1716",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20101",
+			"507",
+			"2117",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19001",
+			"791",
+			"3023",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11203",
+			"939",
+			"2275",
+			"Non-Comcast System Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14802",
+			"308",
+			"7960",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13902",
+			"680",
+			"2583",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11401",
+			"604",
+			"9807",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16703",
+			"1594",
+			"3553",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11802",
+			"352",
+			"2814",
+			"Comcast System Unplanned Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11402",
+			"718",
+			"9519",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"21305",
+			"866",
+			"2020",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"13201",
+			"384",
+			"321",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12701",
+			"430",
+			"6138",
+			"Scheduled Maintenance",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15102",
+			"477",
+			"2592",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15501",
+			"1020",
+			"6799",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15401",
+			"11",
+			"7535",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18001",
+			"655",
+			"6190",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12704",
+			"929",
+			"8653",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16601",
+			"769",
+			"3903",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11201",
+			"434",
+			"8428",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15102",
+			"1163",
+			"8636",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20701",
+			"647",
+			"4129",
+			"Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14704",
+			"1489",
+			"4383",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19701",
+			"1339",
+			"9469",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13301",
+			"102",
+			"5813",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14701",
+			"739",
+			"5958",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"13704",
+			"1504",
+			"7721",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16201",
+			"1846",
+			"8519",
+			"Scheduled Maintenance",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23104",
+			"729",
+			"6568",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"11402",
+			"1498",
+			"7999",
+			"Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16702",
+			"934",
+			"3214",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15301",
+			"1002",
+			"5068",
+			"Scheduled Maintenance resulting in Outage",
+			"Backoffice"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11401",
+			"1202",
+			"8787",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11201",
+			"1072",
+			"7762",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"16704",
+			"159",
+			"6089",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15001",
+			"1896",
+			"8588",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10501",
+			"1502",
+			"6817",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"19901",
+			"521",
+			"7144",
+			"Comcast System Unplanned Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"11401",
+			"1827",
+			"6949",
+			"Scheduled Maintenance resulting in Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"18701",
+			"1503",
+			"4054",
+			"Non-Comcast System Outage",
+			"Other"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"22301",
+			"1190",
+			"4656",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"15901",
+			"581",
+			"611",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11704",
+			"1548",
+			"4759",
+			"Non-Comcast System Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"Northeast",
+			"10601",
+			"1527",
+			"2733",
+			"Non-Comcast System Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"23501",
+			"1475",
+			"2779",
+			"Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12704",
+			"1339",
+			"5022",
+			"Comcast System Unplanned Outage",
+			"Content"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16701",
+			"1123",
+			"8543",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16901",
+			"633",
+			"1217",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"15601",
+			"1186",
+			"1982",
+			"Scheduled Maintenance resulting in Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11802",
+			"884",
+			"6877",
+			"Scheduled Maintenance resulting in Outage",
+			"Arris Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12703",
+			"317",
+			"1454",
+			"Scheduled Maintenance",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"12601",
+			"1522",
+			"2584",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"11704",
+			"886",
+			"1504",
+			"Scheduled Maintenance resulting in Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"13301",
+			"767",
+			"5431",
+			"Scheduled Maintenance",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"16201",
+			"715",
+			"2740",
+			"Non-Comcast System Outage",
+			"Aloha Network"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"10702",
+			"1295",
+			"358",
+			"Scheduled Maintenance",
+			"UDB"
+		],
+		[
+			"02/14/2016",
+			"West",
+			"20701",
+			"383",
+			"1085",
+			"Non-Comcast System Outage",
+			"Cisco Pump"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14403",
+			"799",
+			"3583",
+			"Non-Comcast System Outage",
+			"Billing System"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14002",
+			"249",
+			"8452",
+			"NSA Scheduled Maintenance resulting in Outage",
+			"Network"
+		],
+		[
+			"02/14/2016",
+			"Central",
+			"14404",
+			"482",
+			"8697",
+			"Scheduled Maintenance",
+			"Backoffice"
+		]
+	]
+}

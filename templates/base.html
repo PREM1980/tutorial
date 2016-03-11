@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+<link rel="stylesheet" href="//cdn.datatables.net/1.10.10/css/jquery.dataTables.min.css">
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script src="//cdn.datatables.net/1.10.10/js/jquery.dataTables.min.js"></script>
+	{% load staticfiles %}
+	<link rel="stylesheet" href="{% static "css/style.css" %}">
+    
+    <script src="{% static "js/customjs/ticket_list.js" %}"></script> 
+
+    <script src="{% static "js/jquery.timepicker.min.js" %}"></script>
+    <script src="{% static "js/jquery.datetimepicker.full.min.js" %}"></script>
+
+
+    <script src="{% static "bower_components/bootstrap/dist/js/bootstrap.min.js" %}"></script>
+    <!--<script src="{% static "bower_components/bootstrap/dist/css/bootstrap.min.css" %}"></script>-->
+    
+    <link rel="stylesheet" type="text/css" href="{% static "css/jquery.datetimepicker.css" %}"/>
+    <link rel="stylesheet" href="{% static "css/jquery.timepicker.css" %}">
+    
+    <script src="{% static "js/simplePagination.js/jquery.simplePagination.js" %}"></script>
+    <link rel="stylesheet" href="{% static "js/simplePagination.js/simplePagination.css" %}" />
+
+    <script src="{% static "multiselect/jquery.multiselect.min.js" %}"></script>
+    <link rel="stylesheet" type="text/css" href="{% static "multiselect/jquery.multiselect.css" %}"/>
+
+    <script src="{% static "multiselect/jquery.multiselect.filter.js" %}"></script>
+    <link rel="stylesheet" type="text/css" href="{% static "multiselect/jquery.multiselect.filter.css" %}"/>
+<head>
+    <title>Tutorial</title>
+</head>
+
+<body>
+    {% block content %}{% endblock content %}
+</body>
+
+</html>
